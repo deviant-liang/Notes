@@ -53,6 +53,8 @@
 
 ### **Item 18: Make interfaces easy to use correctly and hard to use incorrectly.**
 
+- If an attempted use of an interface does compile, it will do what the client wants.
+
 ### **Item 19: Treat class design as type design.**
 
 ### **Item 20: Prefer pass-by-reference-to-const to pass-by-value.**
